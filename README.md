@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🚀Dev Full-Stack Sr!
+<p align="left">🚀Dev Full-Stack !
 <br>📜 Estudando Inglês</p>
 
 ###

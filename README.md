@@ -36,4 +36,17 @@
 | ------------- | ------------- |
 
 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipejohnsonn&hide_border=true&theme=react-dark)
+
 ###
+
+
+<p align="center">
+   
+  <a href="https://github.com/felipejohnsonn?tab=repositories&sort=stargazers">
+   <img alt="stars" title="Total stars on GitHub" 
+   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/felipejohnsonn"/></a>
+  <a href="https://github.com/felipejohnsonn?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/felipejohnsonn?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>

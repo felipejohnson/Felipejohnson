@@ -1,4 +1,4 @@
-## Oiii eu sou o Felipe Johnson, Dev Full-Stack! e amante da programação e Tecnologia
+## Oiii eu sou o Felipe Johnson, Dev Full-Stack! e amante da programação e Tecnologia.
 <div align="center">
 
  eu escrevo códigos e quebro coisas ao longo do caminho.

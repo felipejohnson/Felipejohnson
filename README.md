@@ -1,7 +1,7 @@
 ## Oiii eu sou a Felipe Johnson, Dev Full-Stack! 
 <div align="center">
 
- 
+ eu escrevo códigos e quebro coisas ao longo do caminho.
   
 </div>
 <div style="display: inline_block"><br> <h3 class="card_title">Conhecimentos</h3> 
@@ -19,6 +19,7 @@
   
   <a href="https://www.instagram.com/felipee_johnsonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatofelipejonhson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://felipee-johnson.web.app/"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
 
  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipejohnson&hide_border=true&theme=react-dark)
 

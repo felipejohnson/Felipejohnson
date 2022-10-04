@@ -1,4 +1,4 @@
-## Oiii eu sou a Felipe Johnson, Dev Full-Stack! 
+## Oiii eu sou o Felipe Johnson, Dev Full-Stack! 
 <div align="center">
 
  eu escrevo códigos e quebro coisas ao longo do caminho.

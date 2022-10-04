@@ -9,7 +9,7 @@
 ###
 
 <p align="left">🚀Dev Full-Stack !
-<br>📜 Estudando Inglês</p>
+<br>📜 Todos precisamos de pessoas que nos dêem feedback. É assim que melhoramos.</p>
 
 ###
 

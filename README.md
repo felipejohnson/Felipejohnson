@@ -19,7 +19,7 @@
   
   <a href="https://www.instagram.com/felipee.johnson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatofelipejonhson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://felipee-johnson.web.app/"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
+<a href = "https://felipee-johnson.web.app/"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
 
  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipejohnson&hide_border=true&theme=react-dark)
 

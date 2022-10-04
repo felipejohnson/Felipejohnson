@@ -1,50 +1,26 @@
-### <img src="https://felipee-johnson.web.app/assets/images/people-home.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<h1 align="left">Olá 👋 como vai?</h1>
-
-###
-
-<p align="left">Seja bem vindo, me chamo Felipe Johnson!</p>
-
-###
-
-<p align="left">🚀Dev Full-Stack !
-<br>📜 Todos precisamos de pessoas que nos dêem feedback. É assim que melhoramos.</p>
-
-###
-
-<p align="left">Apaixonado por tecnologia e desenvolvimento.</p>
-
-###
-
-
-###
-
-  </a>
-  <a href="https://www.instagram.com/felipee_johnsonn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:contatofelipejonhnson@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+## Oiii eu sou a Felipe Johnson, Dev Full-Stack! 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipejohnson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipejohnson&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div style="display: inline_block"><br> <h3 class="card_title">Conhecimentos</h3> 
+  <img align="center" alt="felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="felipe-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6b/82/97/6b8297cdcf929b5dafce92ddb01ecf19.gif">
+</div>
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://www.instagram.com/felipee_johnsonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatofelipejonhson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-
-
-
-
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipejohnsonn&hide_border=true&theme=react-dark)
-
-###
-
-
-<p align="center">
-   
-  <a href="https://github.com/felipejohnsonn?tab=repositories&sort=stargazers">
-   <img alt="stars" title="Total stars on GitHub" 
-   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/felipejohnsonn"/></a>
-  <a href="https://github.com/felipejohnsonn?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/felipejohnsonn?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

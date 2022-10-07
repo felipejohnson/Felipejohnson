@@ -15,7 +15,7 @@
 
 - 👀 Estou interessado em `PHP` | `ReactJS` | `MySQL`
 
-- 📫 Se você quiser enviar uma mensagem.  **[ contatofelipejohnson.com](mailto:contatofelipejohnson@gmail.com)**
+- 📫 Se você quiser enviar uma mensagem.  **[Contatofelipejohnson](mailto:contatofelipejohnson@gmail.com)**
 
 <br>
 

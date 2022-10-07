@@ -1,6 +1,6 @@
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="illustration">
-<h1 align="left">Oi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> Eu sou Felipe Johnson
+<img src="/images/my animation.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="illustration">
+<h1 align="left">Oi, <img src="/images/Earth.gif" width="30"> Eu sou Felipe Johnson
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipejohnson&color=191b1e" alt="Profile views" /> </p>

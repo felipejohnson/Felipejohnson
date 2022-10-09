@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/-Email-rgb(25, 27, 30)?style=for-the-badge&logo=gmail&logoColor=rgb(150, 118, 228)&link=mailto:contatofelipejohnson@gmail.com"/> 
  </a>
  
- <a href="https://felipee-johnson.web.app/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://felipee-johnson.web.app/"/>
+ <a href="https://felipejohnsonn.web.app/" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://felipejohnsonn.web.app/"/>
  </a>
 
  </p>

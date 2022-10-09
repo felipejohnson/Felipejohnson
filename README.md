@@ -9,7 +9,7 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;Sobre mim
  
-- 🚀 Meu portfolio **[ felipejohnson.com](https://felipee-johnson.web.app/)**
+- 🚀 Meu portfolio **[ felipejohnson.com](https://felipejohnsonn.web.app/)**
 
 - 👨‍💻  Estou sempre estudando `JavaScript
 

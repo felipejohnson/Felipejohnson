@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipejohnson&color=191b1e" alt="Profile views" /> </p>
 
 <br>
- 
+  
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;Sobre mim
   
 - 🚀 Meu portfolio **[ felipejohnson.com](https://felipejohnsonn.web.app/)**

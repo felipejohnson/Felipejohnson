@@ -11,7 +11,7 @@
   
 - 🚀 Meu portfolio **[ felipejohnson.com](https://felipejohnsonn.web.app/)**
 
-🔗 My Bio **[ felipejohnson-bio](https://felipejohnson-bio.vercel.app/)**
+- 🔗 My Bio **[ felipejohnson-bio](https://felipejohnson-bio.vercel.app/)**
 
 - 👨‍💻  Estou sempre estudando `JavaScript
 
